@@ -3,9 +3,10 @@
 -----
 
 ## 🎖️ 프로필
-
-[![Hara's github stats](https://github-readme-stats.vercel.app/api?username=harachoi&show_icons=true&hide_border=true)](https://github.com/harachoi)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harachoi&layout=compact)](https://github.com/harachoi)
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api?username=harachoi&show_icons=true&theme=material-palenight" height="180px"></a>
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harachoi&theme=material-palenight&layout=compact" height="180px"></a>
 
 ## 🔗 링크
 
@@ -13,20 +14,17 @@
 2. [포트폴리오](https://sungb.in)
 
 
-## 📚 메인 프로젝트
+## 📚 Main Projects
 
-[![GitMessengerBot](https://github-readme-stats.vercel.app/api/pin/?username=gitmessengerbot&repo=GitMessengerBot-Android)](https://github.com/GitMessengerBot/GitMessengerBot-Android) <br/>
-[![개발자 행사 알리미](https://github-readme-stats.vercel.app/api/pin/?username=brave-people&repo=Dev-Event-Android)](https://github.com/brave-people/Dev-Event-Android) <br/>
+[![Covid-19-Vaccine-Tracker](https://github-readme-stats.vercel.app/api/pin/?username=harachoi&repo=Covid-19-Vaccine-Tracker)](https://github.com/harachoi/Covid-19-Vaccine-Tracker) <br/>
+[![Cook-I-O](https://github-readme-stats.vercel.app/api/pin/?username=harachoi&repo=Cook-I-O)](https://github.com/harachoi/Cook-I-O) <br/>
+[![Smart-Book](https://github-readme-stats.vercel.app/api/pin/?username=harachoi&repo=Smart-Book)](https://github.com/harachoi/Smart-Book) <br/>
 
 
-## 🔥 Algorithm
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nanta0112)](https://solved.ac/nanta0112/)
-[![SDS2021하계](https://github-readme-stats.vercel.app/api/pin/?username=harachoi&repo=java)](https://github.com/sds-2021-summer-algorithm/java) <br/>
-
-## 💡 목표
-
-1. deview 발표해보기
-
+## 🔥 Algorithm & CS Study
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nanta0112)](https://solved.ac/nanta0112/) <br/>
+1. [삼성SDS하계 스터디](https://github.com/harachoi/java)
+2. [우아한 형재들 Teck-Talk](https://github.com/harachoi/Techo-Talk-Study)
 
 
 
@@ -38,7 +36,15 @@
 </div>
 
 <!--
+[![Hara's github stats](https://github-readme-stats.vercel.app/api?username=harachoi&show_icons=true&hide_border=true)](https://github.com/harachoi)
 
+
+## 💡 목표
+
+1. deview 발표해보기
+
+[![SDS2021하계](https://github-readme-stats.vercel.app/api/pin/?username=sds-2021-summer-algorithm&repo=java)](https://github.com/sds-2021-summer-algorithm/java) <br/>
+[![Tech-Talk-Study](https://github-readme-stats.vercel.app/api/pin/?username=harachoi&repo=Tech-Talk-Study)](https://github.com/harachoi/Techo-Talk-Study) <br/>
 ### Hi there 👋
 
 **harachoi/harachoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -53,4 +59,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harachoi)](https://github.com/harachoi/github-readme-stats)
 -->
