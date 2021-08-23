@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HOLA&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
+
 ### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I am Hara Choi
 
 -----
@@ -31,6 +33,9 @@
 </div>
 
 <!--
+
+<p align='center'> Decorate GitHub Profile or any Repo like me! </p>
+
 [![Hara's github stats](https://github-readme-stats.vercel.app/api?username=harachoi&show_icons=true&hide_border=true)](https://github.com/harachoi)
 
 
