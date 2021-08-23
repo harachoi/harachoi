@@ -4,9 +4,9 @@
 
 ## 🎖️ 프로필
 <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=harachoi&show_icons=true&theme=material-palenight" height="180px"></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=harachoi&show_icons=true&theme=material-palenight" height="180px" width="480px"></a>
 <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harachoi&theme=material-palenight&layout=compact" height="180px"></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harachoi&theme=material-palenight&layout=compact" height="180px" width="480px"></a>
 
 ## 🔗 링크
 
