@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HOLA&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
-
 ### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I am Hara Choi
 
 -----
@@ -29,7 +27,8 @@
 2. [우아한 형재들 Teck-Talk](https://github.com/harachoi/Techo-Talk-Study)
 
 <div align=center>
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com) [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harachoi112@gmail.com)](mailto:harachoi112@gmail.com)
+  
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harachoi112@gmail.com)](mailto:harachoi112@gmail.com)
 </div>
 
 <!--
@@ -40,6 +39,7 @@
 
 
 ## 💡 목표
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HOLA&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
 
 1. deview 발표해보기
 
