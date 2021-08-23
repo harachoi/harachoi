@@ -11,7 +11,7 @@
 ## 🔗 링크
 
 1. [개발 블로그](https://all-we-have-is-now.tistory.com/)
-2. [포트폴리오](https://sungb.in)
+2. [포트폴리오]()
 
 
 ## 📚 Main Projects
@@ -26,13 +26,8 @@
 1. [삼성SDS하계 스터디](https://github.com/harachoi/java)
 2. [우아한 형재들 Teck-Talk](https://github.com/harachoi/Techo-Talk-Study)
 
-
-
-
 <div align=center>
-  
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)   
-  [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harachoi112@gmail.com)](mailto:harachoi112@gmail.com)
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com) [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harachoi112@gmail.com)](mailto:harachoi112@gmail.com)
 </div>
 
 <!--
