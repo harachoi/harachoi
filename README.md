@@ -16,7 +16,7 @@
 ## 🎓 Education
  - Bacheolor Degree in [Computer Science - Software Engineering Track](https://www.cs.purdue.edu/index.html), Purdue University (West Lafayette)
 
-## ⚒ Tech Skill
+## ⚒ Tech Skills
 **Backend, Server**
  - Backend Framework : Django, Spring Boot
  - Database : MySQL, MongoDB
