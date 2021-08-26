@@ -11,8 +11,22 @@
 ## 🔗 링크
 
 1. [개발 블로그](https://all-we-have-is-now.tistory.com/)
-2. [포트폴리오]()
+2. [포트폴리오](https://harachoi.github.io/)
 
+## 🎓 Education
+ - Bacheolor Degree in [Computer Science - Software Engineering Track](https://www.cs.purdue.edu/index.html), Purdue University (West Lafayette)
+
+## ⚒ Tech Skill
+**Backend, Server**
+ - Backend Framework : Django, Spring Boot
+ - Database : MySQL, MongoDB
+
+**Frontendt**
+- React
+
+**Language**
+ - Main : Java, C
+ - Useable : Python
 
 ## 📚 Main Projects
 
