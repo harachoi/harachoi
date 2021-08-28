@@ -21,12 +21,15 @@
  - Backend Framework : Django, Spring Boot
  - Database : MySQL, MongoDB
 
-**Frontendt**
+**Frontend**
 - React
 
 **Language**
  - Main : Java, C
  - Useable : Python
+
+**Shell**
+- Linux/UNIX command-line tools
 
 ## 📚 Main Projects
 
