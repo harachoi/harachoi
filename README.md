@@ -11,7 +11,7 @@
 ## 🔗 링크
 
 1. [개발 블로그](https://all-we-have-is-now.tistory.com/)
-2. [포트폴리오](https://harachoi.github.io/)
+2. [포트폴리오](https://harachoi.github.io/portfolio/)
 
 ## 🎓 Education
  - Bacheolor Degree in [Computer Science - Software Engineering Track](https://www.cs.purdue.edu/index.html), Purdue University (West Lafayette)
